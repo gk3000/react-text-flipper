@@ -16,7 +16,7 @@ import TextFlipper from 'react-text-flipper'
 
 Render passing the props with array pfstring to flip through and the last string will be the final one. 
 
-Optionally pass the interval between flips (default is 500ms) and the HTML element to use (default is <p>):
+Optionally pass the interval in milliseconds between flips (default is 500ms) and the HTML element to use (default is `<p>`):
 
 ```jsx
 import TextFlipper from './TextFlipper'
@@ -52,10 +52,6 @@ const text = [
 
 export default App
 ```
-
-<img src='https://barcelonacodeschool.com/files/pics/text-type-animation-effect-react.gif' alt='A layout component to create a typewriter typing animation effect for text'/>
-
-## Props
 
 
 ---
