@@ -1,5 +1,7 @@
 # React Text Flipper
 
+<img src='https://barcelonacodeschool.com/files/pics/react-text-flipper.gif' alt='A layout component to create a text flip effect'/>
+
 ## Installation
 
 Run `npm i react-text-flipper` or `yarn add react-text-flipper` in the root of your React project.
