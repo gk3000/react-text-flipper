@@ -53,6 +53,12 @@ const text = [
 export default App
 ```
 
+## Dependencies
+
+```
+    "react": ">=18.1.0",
+    "react-dom": ">=18.1.0"
+```
 
 ---
 
